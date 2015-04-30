@@ -1,0 +1,14 @@
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\PalindromeDomain.dll
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\PalindromeDomain.pdb
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
