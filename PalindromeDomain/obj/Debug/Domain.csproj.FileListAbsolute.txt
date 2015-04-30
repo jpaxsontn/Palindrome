@@ -1,0 +1,5 @@
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\PalindromeDomain\bin\Debug\PalindromeDomain.dll
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\PalindromeDomain\bin\Debug\PalindromeDomain.pdb
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\PalindromeDomain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\PalindromeDomain\obj\Debug\PalindromeDomain.dll
+c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\PalindromeDomain\obj\Debug\PalindromeDomain.pdb
