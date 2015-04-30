@@ -14,7 +14,6 @@ namespace PalindromeTest
             palindromeDomain = new PalindromeDomain();
         }
 
-        //Sex at noon taxes
         [TestMethod]
         public void PalindromeDomain_Should_Return_True_For_A_Simple_Palindrome_Sentence_With_No_Punctuation_And_Even_Number_Of_Words_Same_Case()
         {
