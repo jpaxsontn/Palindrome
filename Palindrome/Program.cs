@@ -32,6 +32,7 @@ namespace Palindrome
             }
 
             //Only because this is a console app and the starting method is static. We have to do this to start the IoC container.
+            //Could avoid using Unity and just create new instance in constructor.
             var main = new Program();
             var result = main._palindromeDomain.IsPalindrome(testString);
             Console.WriteLine("Is the input a palindrome: " + result);

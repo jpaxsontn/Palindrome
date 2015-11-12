@@ -12,3 +12,6 @@ c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\bi
 c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
 c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.exe
 c:\users\jxpaxson\documents\visual studio 2013\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\jpaxson\Documents\GitHubVisualStudio\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\jpaxson\Documents\GitHubVisualStudio\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\jpaxson\Documents\GitHubVisualStudio\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
